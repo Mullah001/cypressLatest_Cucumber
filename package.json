@@ -1,0 +1,17 @@
+{
+  "name": "chick-fil-a",
+  "version": "1.0.0",
+  "description": "Chicken, Waffle Potato Fries, & More | Chick-fil-A Canada",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^18.0.4",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "cypress": "^12.17.4",
+    "esbuild": "^0.19.2"
+  }
+}
